@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Greeting will match snapshot with name 1`] = `undefined`;
+
+exports[`Greeting will match snapshot with null 1`] = `undefined`;
