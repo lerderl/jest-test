@@ -1,11 +1,11 @@
 // import logo from './logo.svg';
 import './App.css';
-import { NameForm } from './Form';
+// import { NameForm } from './Form';
 
 function App() {
   return (
     <div>
-      <NameForm />
+      {/* <NameForm /> */}
       <form>
         <label htmlFor="fname">First name:</label>
         <br />

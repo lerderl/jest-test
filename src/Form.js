@@ -3,7 +3,7 @@ import { useState } from "react";
 export const NameForm = () => {
   const [success, setSuccess] = useState(false);
   const [error, setError] = useState(false);
-  const [name, setName] = useState(null);
+  const [name, setName] = useState('');
 
   const handleNameChange = (e) => {
     setName(e.target.value);
